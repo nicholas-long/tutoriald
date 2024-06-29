@@ -1,0 +1,11 @@
+- [20221012144502](/zet/20221012144502/README.md) track modification dates
+- [20221013221136](/zet/20221013221136/README.md) graph query language for zettelkasten
+- [20221022000131](/zet/20221022000131/README.md) put tmux and vim rc config in dockerfile
+- [20221023085822](/zet/20221023085822/README.md) implement returning paths or tables in graph query language
+- [20221026064448](/zet/20221026064448/README.md) check syntax of dash lists for tabstop 4
+- [20221027011800](/zet/20221027011800/README.md) zetcli bash wrapper subcommand implementation
+- [20221105220915](/zet/20221105220915/README.md) add recurring timers using github cron actions
+- [20221120183400](/zet/20221120183400/README.md) make copy option process indentation of code blocks properly
+- [20231112170729](/zet/20231112170729/README.md) script to get remote github URL from git repository
+- [20231122204839](/zet/20231122204839/README.md) zkvr work on demo features to show off
+- [20231122205624](/zet/20231122205624/README.md) zkvr bugs fixed and features added

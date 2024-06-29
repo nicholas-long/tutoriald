@@ -1,0 +1,11 @@
+- [20221006032546](/zet/20221006032546/README.md) my original implementation of zet cmd
+- [20221007193324](/zet/20221007193324/README.md) github actions
+- [20221008063052](/zet/20221008063052/README.md) autorunning scripts in cards
+- [20221025024238](/zet/20221025024238/README.md) enumerate tags
+- [20230919172630](/zet/20230919172630/README.md) script to get root of repository or obsidian knowledge base
+- [20230925055222](/zet/20230925055222/README.md) list of unfinished todo items
+- [20230926234809](/zet/20230926234809/README.md) a non-platform-specific find command script for executable files
+- [20231004044241](/zet/20231004044241/README.md) script to strip and scrape all URLs out of text
+- [20231112170729](/zet/20231112170729/README.md) script to get remote github URL from git repository
+- [20231128160825](/zet/20231128160825/README.md) cross platform scripts to implement broken zkvr features on mac os
+- [20231129161540](/zet/20231129161540/README.md) copy or jump to recently edited files feature

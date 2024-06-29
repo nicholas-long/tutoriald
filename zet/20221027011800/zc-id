@@ -1,0 +1,8 @@
+#!/bin/bash
+# generate a unique zettel ID. advances the timestamp until a unique ID is found.
+
+id=$(date -u +%Y%m%d%H%M%S)
+while [ -d "zet/$id" ]; do
+  let "id=id+1"
+done
+echo "$id"

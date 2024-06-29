@@ -1,0 +1,2 @@
+- [20221007193324](/zet/20221007193324/README.md) github actions
+- [20231112170729](/zet/20231112170729/README.md) script to get remote github URL from git repository
