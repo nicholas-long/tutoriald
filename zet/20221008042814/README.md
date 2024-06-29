@@ -21,6 +21,7 @@ stuff i am working on.
 - [20221101052020](/zet/20221101052020/README.md) TODO: Your to-do list
 - [20230925055222](/zet/20230925055222/README.md) list of unfinished todo items
 - [20231122204839](/zet/20231122204839/README.md) zkvr work on demo features to show off
+- [20240629075715](/zet/20240629075715/README.md) web server to run programs
 
 Tags:
 
